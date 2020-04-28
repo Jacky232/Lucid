@@ -41,7 +41,7 @@ a ,a:hover{
 }
 .banner-inner{
 	width: 100%;
-	padding: 94px 0px;
+	    padding: 155px 0px 94px;
 }
 .banner-inner h4{
 	color: #008ed6;
@@ -106,7 +106,7 @@ a ,a:hover{
 .features-inner{
 	width: 100%;
 	text-align: center;
-	    padding: 40px 0px;
+	padding: 40px 0px;
 }
 .features-inner h4{
 	color: #008ed6;
@@ -132,7 +132,8 @@ a ,a:hover{
 .inner-features{
 	width: 100%;
 	text-align: center;
-	    padding: 27px 0px;
+	padding: 27px 0px 22px;
+
 }
 .inner-features h3{
     margin-top: 16px;
@@ -155,7 +156,7 @@ a ,a:hover{
 /***************************/
 .details-section{
 	width: 100%;
-	padding: 80px 0px 0px 0px;
+	padding: 80px 0px 23px 0px;
 	border-top: 1px solid #eee;
 }
 .details{
@@ -211,7 +212,7 @@ a ,a:hover{
 .customize-section{
 	width: 100%;
 	background: #f2f2f2;
-	padding: 20px 0px;
+	padding: 20px 0px 26px;
 }
 .customize-inner{
 	margin-top: 106px;
@@ -302,7 +303,7 @@ a ,a:hover{
 .like-section{
 	width: 100%;
 	background: #15141a;
-	padding: 46px 0px 40px;
+	padding: 70px 0px 70px;
 }
 .like-in .btn-info{
 	padding: 8px 20px;
@@ -628,8 +629,7 @@ a ,a:hover{
     background: #f2f2f2;
 }
 .banner-inner {
-    width: 100%;
-    padding: 80px 0px;
+	padding: 143px 0px 80px;
 }
 .navbar-light .navbar-nav .active>.nav-link {
     text-align: center;
@@ -664,6 +664,9 @@ a ,a:hover{
 .features-inner h1 {
     font-size: 25px;
 }
+.customize-inner {
+    margin-top: 20px;
+}
 .inner-features {
     padding: 27px 0px 6px;
 }
@@ -676,6 +679,9 @@ a ,a:hover{
 .details-inner p {
     font-size: 12px;
     font-weight: 600;
+}
+.like-section {
+    padding: 58px 0px 70px;
 }
 .customize-section h1 {
     font-size: 25px;
@@ -712,7 +718,7 @@ a ,a:hover{
 	margin-top: 15px;
 }
 .price-section {
-    padding: 44px 0px;
+    padding: 44px 0px 28px;
 }
 .features-inner h4 {
     font-size: 14px;
